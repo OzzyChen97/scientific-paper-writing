@@ -1,0 +1,18 @@
+Scientific Paper Writing
+Copyright 2026 Zhuo Chen
+
+This repository is an independent Codex-compatible adaptation of:
+
+  Deli AutoResearch, "Scientific Paper Writing Skill Group v2.0"
+  Deli Chen, June 2026
+  https://victorchen96.github.io/auto_research/skill/paper-writing.html
+
+The source is published as an HTML method guide and identifies the paper-writing
+skill as open source. This adaptation adds Codex-compatible YAML frontmatter,
+progressive-disclosure packaging, clarified quality-gate semantics, scholarly
+safeguards, and explicit authorization boundaries.
+
+The Apache License 2.0 applies to this repository's Codex-compatible adaptation
+and original modifications. Upstream names and trademarks remain the property of
+their respective owners.
+

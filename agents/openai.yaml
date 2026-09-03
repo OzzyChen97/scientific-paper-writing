@@ -1,0 +1,8 @@
+interface:
+  display_name: "Scientific Paper Writing"
+  short_description: "Build and iteratively improve scientific survey papers"
+  default_prompt: "Use $scientific-paper-writing to plan and improve an evidence-grounded scientific survey paper."
+
+policy:
+  allow_implicit_invocation: true
+

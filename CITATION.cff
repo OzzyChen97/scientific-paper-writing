@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this skill, please cite this repository and the upstream Deli AutoResearch source."
+title: "Scientific Paper Writing: a Codex skill for evidence-grounded survey production"
+type: software
+authors:
+  - family-names: "Chen"
+    given-names: "Zhuo"
+    alias: "OzzyChen97"
+version: 0.1.0
+date-released: 2026-09-03
+repository-code: "https://github.com/OzzyChen97/scientific-paper-writing"
+url: "https://github.com/OzzyChen97/scientific-paper-writing"
+license: Apache-2.0
+keywords:
+  - Codex skill
+  - scientific writing
+  - survey paper
+  - literature review
+  - peer review
+references:
+  - type: generic
+    title: "Deli AutoResearch — Scientific Paper Writing Skill Group v2.0"
+    authors:
+      - family-names: "Chen"
+        given-names: "Deli"
+    year: 2026
+    url: "https://victorchen96.github.io/auto_research/skill/paper-writing.html"
+
